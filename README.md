@@ -73,16 +73,6 @@ The objective of this project is to explore transactional retail data and identi
 
 ---
 
-## SQL Queries
-
-The complete SQL queries used in this project are available in:
-
-```sql
-black_friday_sales_analysis.sql
-```
-
----
-
 ## Author
 
 **Rijal Anshori Al Haq**
