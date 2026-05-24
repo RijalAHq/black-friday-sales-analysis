@@ -69,7 +69,7 @@ The objective of this project is to explore transactional retail data and identi
 
 ## Project Showcase
 
-![SQL Project Showcase](https://github.com/RijalAHq/black-friday-sales-analysis/blob/main/Black%20Friday%20Sales%20Analysis.pngblack_friday_sales_analysis.png)
+![SQL Project Showcase](https://github.com/RijalAHq/black-friday-sales-analysis/blob/main/Black%20Friday%20Sales%20Analysis.png)
 
 ---
 
