@@ -87,11 +87,16 @@ The objective of this project is to explore transactional retail data and identi
 ```text
 black-friday-sales-sql-analysis/
 │
-├── README.md
+│
+├── dataset/
+│   ├── retail_black_friday_sales_100k_before.csv
+│   └── retail_black_friday_sales_100k_after.csv
+│
+├── black_friday_sales_analysis.png
+│
 ├── black_friday_sales_analysis.sql
-├── black_friday_sales_project_showcase.png
-├── retail_black_friday_sales_100k_before.csv
-└── retail_black_friday_sales_100k_after.csv
+│
+└── README.md
 ```
 
 ---
