@@ -63,7 +63,7 @@ The objective of this project is to explore transactional retail data and identi
 - Electronics generated the highest revenue during Black Friday.
 - Returning customers contributed the most revenue.
 - Moderate discounts performed better than extremely high discounts.
-- Peak shopping activity occurred between 22:00.
+- Peak shopping activity occurred between 22:00 to 21.00.
 
 ---
 
